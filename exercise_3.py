@@ -13,4 +13,3 @@ The user can choose their preferred specialist.
 The basic process is: Login -> Choose specialty -> Choose doctor -> Choose time slot."""
 
 
-print("hello")
